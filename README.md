@@ -1,4 +1,4 @@
-[![MasterHead](https://www.instavyapar.com/images/inner-page/CMS-web-development.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
