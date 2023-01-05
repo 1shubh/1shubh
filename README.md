@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shubh&label=Profile%20views&color=0e75b6&style=flat" alt="1shubh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://1shubh.github.io/](https://1shubh.github.io/)
+<h3>I am an enthusiastic and self-driven Full Stack Web Developer. My skills include HTML, CSS, Javascript, and ReactJS. I have over 1300+ hours of coding experiance</h3>
 
 - 📫 How to reach me **shubhkmr1806@gmail.com**
 
