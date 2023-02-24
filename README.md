@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1k7uAukf3OG1GZqbYlHS141voeeHRycQU" alt="shubh"/><p/>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=14L72J23HqttnpwTDicWG6v8-2SfsJjyY" alt="shubh"/><p/>
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=black&width=435&lines=Hi+👋+I'm+Shubham+Kumar;Frontend Developer;Welcome+to+My+profile"/></h1>
 
 <h3 align="center">A passionate Frontend Developer</h3>
