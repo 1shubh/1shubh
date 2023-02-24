@@ -1,11 +1,11 @@
-
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1k7uAukf3OG1GZqbYlHS141voeeHRycQU" alt="shubh"/><p/>
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shubh&label=Profile%20views&color=0e75b6&style=flat" alt="1shubh" /> </p>
 
-<h3>An enthusiastic and self-driven Full Stack Web Developer with skills in HTML, CSS, Javascript, and ReactJS and has over 1300+ hours of coding experiance</h3>
+<h3>An enthusiastic and self-driven Frontend Developer with skills in HTML, CSS, Javascript, and ReactJS and has over 1300+ hours of coding experiance</h3>
 
 - 📫 How to reach me **shubhkmr1806@gmail.com**
 
