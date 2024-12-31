@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shubh&label=Profile%20views&color=0e75b6&style=flat" alt="1shubh" /> </p>
 
-<h3>An enthusiastic and self-driven Full Stack Developer and Mobile App Developer with skills in HTML, CSS, Javascript,ReactJS and React Native and has over 2 Years of coding experiance</h3>
+<h3>An enthusiastic and self-driven Full Stack Developer and Mobile App Developer with skills in HTML, CSS, Javascript,ReactJS and React Native and has over 2 Years of coding experience</h3>
 
 - 📫 How to reach me **shubhkmr1806@gmail.com**
 
