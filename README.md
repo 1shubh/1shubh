@@ -1,29 +1,136 @@
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=14L72J23HqttnpwTDicWG6v8-2SfsJjyY" alt="shubh"/><p/>
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=black&width=435&lines=Hi+👋+I'm+Shubham+Kumar;Frontend Developer;Welcome+to+My+profile"/></h1>
-
-<h3 align="center">A passionate Full Stack Developer</h3>
+<!-- ============================== HEADER ============================== -->
+<div align="center">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1shubh&label=Profile%20views&color=0e75b6&style=flat" alt="1shubh" /> </p>
 
-<h3>An enthusiastic and self-driven Full Stack Developer and Mobile App Developer with skills in HTML, CSS, Javascript,ReactJS and React Native and has over 2 Years of coding experience</h3>
+<a href="https://github.com/1shubh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Shubham+Kumar;Full+Stack+Developer+%7C+React+%26+Node.js;8%2B+Years+of+Building+Real-Time+Web+%26+Mobile+Apps;Trusted+by+Government+%26+Power-Sector+Teams" alt="Typing animation" />
+</a>
 
-- 📫 How to reach me **shubhkmr1806@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_V_RPmMHigleNKqPAtJluD0Od1KKiXwX/view?usp=sharing)
-<img alt="image" width="50%" align="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-kumar-b617a4171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-b617a4171/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shubhkmr1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubhkmr1806" height="30" width="40" /></a>
-<a href="https://instagram.com/shubh_kmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_kmr" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/shubham-kumar-b617a4171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shubhkmr1806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1_V_RPmMHigleNKqPAtJluD0Od1KKiXwX/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2C5364?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="https://codesandbox.com/shubhkmr1806"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/></a>
+<a href="https://instagram.com/shubh_kmr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/><br/>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=1shubh&show_icons=true&locale=en&layout=compact" alt="1shubh" /></p>
+<img src="https://komarev.com/ghpvc/?username=1shubh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=1shubh&show_icons=true&locale=en" alt="1shubh" /></p>
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=1shubh&" alt="1shubh" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer with 8+ years of experience** building fast, scalable web and mobile applications with **React.js, Next.js, React Native and Node.js**.
+
+My recent work is in **government and power-sector technology**. I design and ship real-time dashboards, outage management systems and public-facing portals for **SLDC Delhi**, where reliability and live data matter every second. I care about clean architecture, smooth user experience, performance and accessibility.
+
+| | |
+|---|---|
+| 🏛️ **Domain** | Government tech, power systems, smart grid, real-time monitoring |
+| ⚡ **Strength** | Live data dashboards, outage management, REST APIs, SCADA data integration |
+| 📱 **Platforms** | Web (React / Next.js) and Mobile (React Native) |
+| 🖥️ **Deployment** | On-premise Windows servers with IIS, plus modern cloud hosting |
+| 🌱 **Always learning** | New tools, better patterns, cleaner code |
+
+---
+
+## 🏛️ Featured Government Projects
+
+> Built for **State Load Despatch Centre (SLDC) Delhi**, supporting real-time power system monitoring and grid operations.
+
+| Project | What it does | Tech |
+|---|---|---|
+| ⚡ **Outage Management System** *(Web + Mobile)* | Logs, tracks and displays planned and forced outages in real time, with a web app for control-room teams and a mobile app for on-the-go access. | React JS, React Native, Node.js, REST APIs |
+| 🌐 **SLDC Delhi Official Website** | Public-facing website publishing grid operations data, notices, reports and regulatory information for utilities and stakeholders. | React JS, Node.js, SQL |
+| 📊 **DISCOM Real-Time Data Portal** | Live dashboard of real-time data for Delhi's distribution companies, with auto-refreshing values and interactive charts. | React JS, Node.js, Charts, SQL |
+
+**What I delivered across these projects**
+
+- 🔴 Real-time dashboards with auto-refreshing data and interactive visualizations
+- 🔌 Secure REST APIs and integration with real-time and SCADA data sources
+- 📱 Cross-platform mobile app in React Native for operational users
+- 🖥️ Deployment and maintenance on on-premise Windows servers using IIS
+- 🗄️ SQL database design, reporting and performance tuning
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend and Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Deployment and Tools**
+
+![IIS](https://img.shields.io/badge/Windows_IIS-5E5E5E?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🎯 What I Bring
+
+- ✅ **8+ years** of hands-on full stack experience, from idea to production
+- ✅ **Real-time systems** where data accuracy and uptime are critical
+- ✅ **State management** done right with Redux Toolkit and Context API
+- ✅ **Performance, accessibility and clean UX** built into every project
+- ✅ **Third-party API and SCADA/data integrations** handled end to end
+- ✅ **Government-grade delivery**: secure, stable and maintainable
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=1shubh&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=1shubh&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=1shubh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **full stack / React / React Native roles** and to collaborating on projects that solve real problems.
+
+📫 **Email:** [shubhkmr1806@gmail.com](mailto:shubhkmr1806@gmail.com)
+💼 **LinkedIn:** [shubham-kumar-b617a4171](https://linkedin.com/in/shubham-kumar-b617a4171/)
+📄 **Resume:** [View my resume](https://drive.google.com/file/d/1_V_RPmMHigleNKqPAtJluD0Od1KKiXwX/view?usp=sharing)
+
+<div align="center">
+
+*Let's build something amazing together.* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" width="100%"/>
+
+</div>
